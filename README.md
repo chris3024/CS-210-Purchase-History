@@ -17,3 +17,11 @@
 
 ### How did you make this program maintainable, readable, and adaptable?
   The code is split up into a class structure with functions that will enchance its ability to be expanded on and maintained. I used comments throughout to help the readability of the code, so that it can be understood what the code is doing.
+
+
+<img src=https://user-images.githubusercontent.com/81715628/197236116-97854771-e2ea-42c7-a9ba-f4c727c4712d.png width=300> <img src=https://user-images.githubusercontent.com/81715628/197237464-f73c4224-ad15-4abb-bdab-1e368652aced.png width=300>
+
+<img src=https://user-images.githubusercontent.com/81715628/197237665-d490c2d4-70cc-4f83-b6bf-de2172da0efa.png width=300> <img src=https://user-images.githubusercontent.com/81715628/197237983-f1a77070-1021-48db-a776-198ecfb32bc9.png width=300>
+
+<img src=https://user-images.githubusercontent.com/81715628/197238173-cd8bd71d-65ab-4b61-895f-e45235bd980a.png width=300>
+
